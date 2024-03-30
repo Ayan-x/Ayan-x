@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayan Ahmad</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on **my Portfolio website.**
+- 🔭 I’m currently working on **Edutech**
 
 - 🌱 I’m currently learning **Express js**
 
